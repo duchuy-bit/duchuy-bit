@@ -1,0 +1,26 @@
+{
+   " title ":" Lap trình cọ ban ",
+   " description ":" Khoa học gioi thieu react native co ban ",
+   " movies ":[
+      {
+         " id ":" 1 ",
+         " title ":" Gioi thieu ve react native ",
+         " releaseYear ":" 2018 "
+      },
+      {
+         " id ":" 2 ",
+         " title ":" Props va state ",
+         " releaseYear ":" 2019 "
+      },
+      {
+         " id ":" 3 ",
+         " title ":" lam viec voi json ",
+         " release Year ":" 2010 "
+      },
+      {
+         " id ":" 4 ",
+         " title ":" trao doi du lieu client server ",
+         " releaseYear ":" 2011 "
+      }
+   ]
+}
